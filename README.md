@@ -1,0 +1,1 @@
+This repository is a compilation of work in R from MA 417 Mathematical Statistics. Examples, homework, and labs were completed with Daniel Lewinsohn (@lewinsohndp). Markdown files allow for viewing.
